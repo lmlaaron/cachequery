@@ -40,14 +40,14 @@
 #define L2_HIT_THRESHOLD 141 // 144-145
 #define L2_MISS_THRESHOLD 160 // 175-..
 #define L1_HIT_THRESHOLD 1 // 139-141
-#define L1_MISS_THRESHOLD 144 //144-145
+#define L1_MISS_THRESHOLD 155 //144-145
 
-/*
-// rftscp + 2ghz
-#define L3_HIT_THRESHOLD 78 // 79-96
-#define L3_MISS_THRESHOLD 197 // >197
-#define L2_HIT_THRESHOLD 52 // 53-65
-#define L2_MISS_THRESHOLD 88 // 88-102
-#define L1_HIT_THRESHOLD 1 // 47- 57
-#define L1_MISS_THRESHOLD 55 // 53 - 65
-*/
+
+//// rftscp + 2ghz
+//#define L3_HIT_THRESHOLD 78 // 79-96
+//#define L3_MISS_THRESHOLD 197 // >197
+//#define L2_HIT_THRESHOLD 0//52 // 53-65
+//#define L2_MISS_THRESHOLD 1//88 // 88-102
+//#define L1_HIT_THRESHOLD  53//1 // 47- 57
+//#define L1_MISS_THRESHOLD 53//144 // 53 - 65
+
