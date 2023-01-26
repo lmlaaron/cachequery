@@ -35,7 +35,7 @@
 
 
 // core cycles
-#define L3_HIT_THRESHOLD 160 // 131 // 113-131
+#define L3_HIT_THRESHOLD 131 // 131 // 113-131
 #define L3_MISS_THRESHOLD 300 // 290-...
 #define L2_HIT_THRESHOLD 140 // 79-91
 #define L2_MISS_THRESHOLD 160 // 123-237
